@@ -33,3 +33,4 @@ module.exports.loop = function () {
     
     Memory.CPUcosts['TOTAL'] = Game.cpu.getUsed();
 }
+
