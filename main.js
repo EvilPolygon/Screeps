@@ -30,7 +30,7 @@ module.exports.loop = function () {
     /*if((Memory.offenceINFO.squad).length > 0){
         Offence.run(); break;
     }*/
-    
+    console.log('cmon');
     Memory.CPUcosts['TOTAL'] = Game.cpu.getUsed();
 }
 //that pulled from github

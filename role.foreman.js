@@ -21,7 +21,7 @@ module.exports = {
                     }
                 }
                 else{
-                    creep.moveTo(OFactory);
+                    creep.moveTo(OFactory);console.log('in');
                 }
             }
         }
