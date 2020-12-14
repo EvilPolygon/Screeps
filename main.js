@@ -31,6 +31,5 @@ module.exports.loop = function () {
         Offence.run(); break;
     }*/
     Memory.CPUcosts['TOTAL'] = Game.cpu.getUsed();
-    console.log('sucses');
 }
 //that pulled from github
