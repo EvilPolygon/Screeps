@@ -21,7 +21,7 @@ module.exports = {
                     }
                 }
                 else{
-                    creep.moveTo(OFactory);console.log('in');
+                    creep.memory.resourc = false;
                 }
             }
         }
